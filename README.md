@@ -1,8 +1,6 @@
-Reset trial
+#Reset trial
 
 Remember to save your preset  
-
-<img src='image.png'>
 
 BTT
 ```sh
